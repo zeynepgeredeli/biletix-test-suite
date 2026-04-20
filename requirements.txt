@@ -1,0 +1,5 @@
+robotframework
+cat > requirements.txt << 'EOF'
+robotframework
+robotframework-seleniumlibrary
+webdriver-manager
